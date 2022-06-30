@@ -1,0 +1,59 @@
+.Banner{
+    background-image: url("/images/bigBG\ \(2\).jpg");
+    max-height: 900px;
+    
+}
+.Banner img{
+    max-height: 400px;
+    max-width: 400px;
+}
+.Banner h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#icons i{
+height:60px;
+width:60px;
+border-radius: 100%;
+color:blue;
+background-color: white;
+border:2px solid blue;
+display: inline-block;
+line-height: 60px;
+text-align: center;
+font-size:20px;
+font-weight: bolder ;
+transition: all 0.3s ease;
+}
+#peopleSay h3{
+    color: blue;
+    font-weight: bolder;
+}
+#Contact h2{
+    font-weight: bolder;
+    color: blue;
+    font-size: 60px;
+}
+#Contact p{
+    
+    font-size: 30px;
+}
+#icons i:hover{
+    
+    color:white;
+    background-color: blue;
+}
+footer .myContainer{
+    background-color: grey;
+}
+footer .last i{
+    height: 40px;
+    width:40px;
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: grey;
+    color:black;
+    border-radius: 100%;
+}
